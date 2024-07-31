@@ -35,4 +35,5 @@ The characters (letters, symbols, and numbers) are shuffled to ensure that each 
 
 ## Run the program
 **View easy version code** - [password_generator_easy.py](password_generator_easy.py)
-__View easy version code__ - [password_generator_hard.py](password_generator_hard.py)
+<br>
+__View hard version code__ - [password_generator_hard.py](password_generator_hard.py)
